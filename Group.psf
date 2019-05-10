@@ -1,0 +1,578 @@
+﻿<File version="2.1">
+  <FileID>b4597e42-b3eb-49b6-a515-1d5ca50e25b5</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAADcLSURBVHhe7d0HfN51gcfxnps7xx2HiqhQKqPs
+IVPwRM7zVFBEEUQpAjLaUhBQEJFZloLAIVIohe6sZjad2XuvZu+9dzOaLuj3fv8nCYQmKv1BSn/t
+5/t6vV9tkif/Z5T0/3kyygzGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wx
+xhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYY
+Y4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOM
+McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjB9sKjfaPf/zj7UcddVT7L669
+tn3OnDnt119/vfkVAAAcqLxz9fXm1xtuuKF91qxZ7R/72MfavXO6Ueud4P/h/uVf/qXviCOO0Pe/
+/3395q67FRKxUSWVzaqq71RFXTsAADhAVdZ3qLKuTRk5W/TY44/r8ssv15FHHqmPfOQjb46d5v/+
+TAC0eyf/F/7vJWWX1CtpS52SfeoBAMABr06JBXUqrm3X0uWr9KMf/lAf+9jHhsdO839/Rx31pfY7
+7vjN6Mm/sF4J+TUAAOB9SC6sU2pxw37hPXEfvV4vAjq08ImndPTRR//zAPj5z69tDwyJVEqhOUhB
+rRLNQQAAwL5Lyq/1PSOPTNiiFWHJWh6apBWhydPCO/bK8BRtSC4y5/C60evfUq/MvBLdesst/zwA
+vG/4K69tNRXR6AsAryQAAMC+SylqUHhMvpaviZdfeLICIlLkP00C1ppfvcgw1xWZWKiUsc8GtHVv
+0/z58/95AHjfQdjQ2qs0EwCjX/sHAAA20kub9MrKKEVEZWtLTZtyK1qm0PzO7yvHTHz7pNdNuPxe
+CmvafZHxelC877q9L+U3tW/VvHnz3lsA1Dd3K90EQIq58e+oV4o50CTvugwAABiXWdasV1ZFaWNi
+gTmvNigmq1Kx2VVvi8n2Xq5UXG61EvJrlZD3jrgc8zrv997r82t8v483l4sdO0bMhON4os3rs8qb
+FbopU2+YAMg0AeCdp5s6TADMfa8B0NJjDtKq9JKmdyttHv3VxIHP3m8HAABvy6ls02K/GG1I3GJO
+yM2+E3hCnncyHxWfV63kwgat2ZSmPzz6gubd+bBuv+tRPf9KoKIzy/Xcy36af9cjmvebh/XHhS8q
+OCpDyVsazHG89zXHMMfz/d7wIiLHnLtDNmVpeUiScqralWGus7lzQHP3JQByKttNubSMaVN2ZbU2
+rY/UqpV+WukfqBV+axS4PkepZa0mFsYvBwAAxuVVd+g1/1htSixUVlmz76SfaJ7RJ+Z736TnqTXn
+0DY9+sxivbZklaqr61Rj3Hv/U7rv4Rd0/wN/Um1Nve/1ixYt0+PPLVWmufzoMd7NO3ZuZavCTAB4
+3xSYV9PpezK/TwHQYAIgt6rD946j2pVTXaHIoGAFbchSfEGtUvKrlGIqJKvCvM3EQraRU9U5+nvz
+PtmVHcqpaHv7GNne5czLvl+9y5njj8uu8C7T9q7X+Zhy8r2vd8wJx/IZv96JrzPH8F3vxONPuMw7
+bzPedbzx9xt/n79/ve86/tjl9r7e0ftjvH1f3/367IoJx/Ad37vvYy+PGb1e8/rx2zXxvu71GI7f
+xnfftr0fGwDA/pZvTsKv+cdpc3Kh7xzgnfS978xPKjC/+tQro6RFq8LjzbP8h5SekSNvra3tevDh
+Z9XR2e17OTk50/d2v7VJSi9t8b1fsmfs5/493rHzzbP+8M3ZWhGWovzaLt/5oblzcN8CIL/anEjM
+O47qMCVRqfXB4QqLL1Nmda+5kk7lmSvKLm1URmG90otqlJRVouTCRt+JMbOwWunmTuWYk1Wud+Ir
+qVdqoQmGUvNrbrkSs0uNMiXlVSujtNVcrknp+ZVKyvFeb+RUKLWo0ZzUWs2xas2xms0dGY0I7/jZ
+pQ1KN3fcdzIcv52VLea2VCt5/BjZ5aNfgzEB493WrJLR25hgrje1pNWUUodh3q+8WekFFUqa6nqL
+x67XnFBzzP3I2FIxduxKpRV7n94xj02V9/pKJZpje++fUe69zjw2ZQ1KzRu7r6bMMsq862w3xzX3
+M9vcDu+6vPtuLpdibnNSboWSvctnVSjNPHa5VS1KyytTQlapkvPrlW2OOXrfzWNoXu8dNym3yvcf
+g3c7soq9447eb99jPfGxAQDsd1vMSXhJwGgA5Jm/v71P33s/Zj/O+7s6xZw3M8zf4ytNBMz/zSOK
+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
+gDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0EAABr
+BADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggA
+wF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7
+CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEA
+AKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABY
+IwAAdxEAAKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYA
+AO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADc
+RQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsA
+AGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDA
+GgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUC
+AHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0EAABrBADg
+LgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA1ggAwF0E
+AABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwRAIC7CAAA
+1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAAdxEAAKwR
+AIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4iAABYIwAA
+dxEAAKwRAIC7CAAA1ggAwF0EAABrBADgLgIAgDUCAHAXAQDAGgEAuIsAAGCNAADcRQAAsEYAAO4i
+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
+RK5CYII=</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formГруппыПользователя" children="Controls">
+    <Property name="AcceptButton">
+      <Reference name="buttonOK" />
+    </Property>
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
+    <Property name="ClientSize">548, 447</Property>
+    <Property name="FormBorderStyle">FixedDialog</Property>
+    <Property name="MaximizeBox">False</Property>
+    <Property name="MinimizeBox">False</Property>
+    <Property name="Name">formГруппыПользователя</Property>
+    <Property name="StartPosition">CenterScreen</Property>
+    <Property name="Text">Группы пользователя</Property>
+    <Event name="Load">formГруппыПользователя_Load</Event>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textboxUserLogin" children="Controls">
+      <Property name="Location">298, 12</Property>
+      <Property name="Name">textboxUserLogin</Property>
+      <Property name="Size">134, 20</Property>
+      <Property name="TabIndex">5</Property>
+      <Event name="KeyDown">textboxUserLogin_KeyDown</Event>
+    </Object>
+    <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridviewGroupUsers" children="Controls">
+      <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+      <Property name="Location">298, 113</Property>
+      <Property name="Name">datagridviewGroupUsers</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="Size">240, 283</Property>
+      <Property name="TabIndex">4</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelОписаниеГруппы" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="Font">Courier New, 9.75pt, style=Bold</Property>
+      <Property name="Location">413, 34</Property>
+      <Property name="Name">labelОписаниеГруппы</Property>
+      <Property name="Size">125, 20</Property>
+      <Property name="TabIndex">3</Property>
+      <Property name="Text">Описание группы</Property>
+      <Property name="UseCompatibleTextRendering">True</Property>
+    </Object>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textboxDescriptionGroup" children="Controls">
+      <Property name="Location">298, 57</Property>
+      <Property name="Multiline">True</Property>
+      <Property name="Name">textboxDescriptionGroup</Property>
+      <Property name="Size">240, 50</Property>
+      <Property name="TabIndex">2</Property>
+    </Object>
+    <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridviewGroups" children="Controls">
+      <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">datagridviewGroups</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="Size">263, 405</Property>
+      <Property name="TabIndex">1</Property>
+      <Event name="MouseDoubleClick">datagridviewGroups_MouseDoubleClick</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonOK" children="Controls">
+      <Property name="Anchor">Bottom, Right</Property>
+      <Property name="DialogResult">OK</Property>
+      <Property name="Location">461, 412</Property>
+      <Property name="Name">buttonOK</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">&amp;OK</Property>
+      <Property name="UseCompatibleTextRendering">True</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+    </Object>
+  </Object>
+  <Code><![CDATA[param (
+	[Parameter(Mandatory = $true)]
+	[string]$ADLogin
+	
+)
+$formГруппыПользователя_Load={
+	#TODO: Initialize Form Controls here
+	$textboxUserLogin.Text = $ADLogin
+	if ($textboxUserLogin.Text -ne "")
+	{
+		$ListGroup = Get-ADPrincipalGroupMembership $textboxUserLogin.Text | Select-Object name
+		Update-DataGridView -DataGridView $datagridviewGroups -Item $ListGroup -AutoSizeColumns DisplayedCells
+	}
+	else
+	{
+		$textboxUserLogin.Text = "Введи логин Юзера"
+	}
+	$textboxUserLogin.Text
+}
+
+#region Control Helper Functions
+function Update-DataGridView
+{
+	<#
+	.SYNOPSIS
+		This functions helps you load items into a DataGridView.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the DataGridView control.
+
+	.PARAMETER  DataGridView
+		The DataGridView control you want to add items to.
+
+	.PARAMETER  Item
+		The object or objects you wish to load into the DataGridView's items collection.
+	
+	.PARAMETER  DataMember
+		Sets the name of the list or table in the data source for which the DataGridView is displaying data.
+
+	.PARAMETER AutoSizeColumns
+	    Resizes DataGridView control's columns after loading the items.
+	#>
+	Param (
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		[System.Windows.Forms.DataGridView]$DataGridView,
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		$Item,
+	    [Parameter(Mandatory=$false)]
+		[string]$DataMember,
+		[System.Windows.Forms.DataGridViewAutoSizeColumnMode]$AutoSizeColumns = 'None'
+	)
+	$DataGridView.SuspendLayout()
+	$DataGridView.DataMember = $DataMember
+	
+	if ($Item -is [System.Data.DataSet] -and $Item.Tables.Count -gt 0)
+	{
+		$DataGridView.DataSource = $Item.Tables[0]
+	}
+	elseif ($Item -is [System.ComponentModel.IListSource]`
+	-or $Item -is [System.ComponentModel.IBindingList] -or $Item -is [System.ComponentModel.IBindingListView] )
+	{
+		$DataGridView.DataSource = $Item
+	}
+	else
+	{
+		$array = New-Object System.Collections.ArrayList
+		
+		if ($Item -is [System.Collections.IList])
+		{
+			$array.AddRange($Item)
+		}
+		else
+		{
+			$array.Add($Item)
+		}
+		$DataGridView.DataSource = $array
+	}
+	
+	if ($AutoSizeColumns -ne 'None')
+	{
+		$DataGridView.AutoResizeColumns($AutoSizeColumns)
+	}
+	
+	$DataGridView.ResumeLayout()
+}
+
+function ConvertTo-DataTable
+{
+	<#
+		.SYNOPSIS
+			Converts objects into a DataTable.
+	
+		.DESCRIPTION
+			Converts objects into a DataTable, which are used for DataBinding.
+	
+		.PARAMETER  InputObject
+			The input to convert into a DataTable.
+	
+		.PARAMETER  Table
+			The DataTable you wish to load the input into.
+	
+		.PARAMETER RetainColumns
+			This switch tells the function to keep the DataTable's existing columns.
+		
+		.PARAMETER FilterWMIProperties
+			This switch removes WMI properties that start with an underline.
+	
+		.EXAMPLE
+			$DataTable = ConvertTo-DataTable -InputObject (Get-Process)
+	#>
+	[OutputType([System.Data.DataTable])]
+	param(
+	[ValidateNotNull()]
+	$InputObject, 
+	[ValidateNotNull()]
+	[System.Data.DataTable]$Table,
+	[switch]$RetainColumns,
+	[switch]$FilterWMIProperties)
+	
+	if($null -eq $Table)
+	{
+		$Table = New-Object System.Data.DataTable
+	}
+	
+	if ($InputObject -is [System.Data.DataTable])
+	{
+		$Table = $InputObject
+	}
+	elseif ($InputObject -is [System.Data.DataSet] -and $InputObject.Tables.Count -gt 0)
+	{
+		$Table = $InputObject.Tables[0]
+	}
+	else
+	{
+		if (-not $RetainColumns -or $Table.Columns.Count -eq 0)
+		{
+			#Clear out the Table Contents
+			$Table.Clear()
+			
+			if ($null -eq $InputObject) { return } #Empty Data
+			
+			$object = $null
+			#find the first non null value
+			foreach ($item in $InputObject)
+			{
+				if ($null -ne $item)
+				{
+					$object = $item
+					break
+				}
+			}
+			
+			if ($null -eq $object) { return } #All null then empty
+			
+			#Get all the properties in order to create the columns
+			foreach ($prop in $object.PSObject.Get_Properties())
+			{
+				if (-not $FilterWMIProperties -or -not $prop.Name.StartsWith('__')) #filter out WMI properties
+				{
+					#Get the type from the Definition string
+					$type = $null
+					
+					if ($null -ne $prop.Value)
+					{
+						try { $type = $prop.Value.GetType() }
+						catch { Out-Null }
+					}
+					
+					if ($null -ne $type) # -and [System.Type]::GetTypeCode($type) -ne 'Object')
+					{
+						[void]$table.Columns.Add($prop.Name, $type)
+					}
+					else #Type info not found
+					{
+						[void]$table.Columns.Add($prop.Name)
+					}
+				}
+			}
+			
+			if ($object -is [System.Data.DataRow])
+			{
+				foreach ($item in $InputObject)
+				{
+					$Table.Rows.Add($item)
+				}
+				return @( ,$Table)
+			}
+		}
+		else
+		{
+			$Table.Rows.Clear()
+		}
+		
+		foreach ($item in $InputObject)
+		{
+			$row = $table.NewRow()
+			
+			if ($item)
+			{
+				foreach ($prop in $item.PSObject.Get_Properties())
+				{
+					if ($table.Columns.Contains($prop.Name))
+					{
+						$row.Item($prop.Name) = $prop.Value
+					}
+				}
+			}
+			[void]$table.Rows.Add($row)
+		}
+	}
+	
+	return @(,$Table)	
+}
+#endregion
+
+$datagridviewGroups_MouseDoubleClick=[System.Windows.Forms.MouseEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.MouseEventArgs]
+	#TODO: Place custom script here
+	$SelectedGroup = ($datagridviewGroups.CurrentRow.DataBoundItem).name
+	
+	$textboxDescriptionGroup.Text = Get-ADGroup $SelectedGroup | Select-Object Description
+	$ListGroupUsers = Get-ADGroupMember $SelectedGroup | Select-Object name
+	Update-DataGridView -DataGridView $datagridviewGroupUsers -Item $ListGroupUsers -AutoSizeColumns DisplayedCells
+}
+
+$textboxUserLogin_KeyDown=[System.Windows.Forms.KeyEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.KeyEventArgs]
+	#TODO: Place custom script here
+	if ($_.KeyCode -eq "Enter")
+	{
+		
+		if ($textboxUserLogin.Text -ne "")
+		{
+			$ListGroup = Get-ADPrincipalGroupMembership $textboxUserLogin.Text | Select-Object name
+			Update-DataGridView -DataGridView $datagridviewGroups -Item $ListGroup -AutoSizeColumns DisplayedCells
+		}
+		else
+		{
+			$textboxUserLogin.Text = "Введи логин Юзера"
+		}
+		$textboxUserLogin.Text
+	}
+}
+
+
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+  </Assemblies>
+</File>

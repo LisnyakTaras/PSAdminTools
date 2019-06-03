@@ -3,4 +3,4 @@
 #Этот проект создан в "PowerShell Studio 2017"
 #Написан на PowerShell
 
-<img src="https://drive.google.com/open?id=17C0JVu2EUcjbQfF6pbRclkhmhzPG-k3B"/>
+<img src="https://1drv.ms/u/s!AvBQpn7p4AG7qyWmc8KjuPCt1Nah"/>

@@ -25,9 +25,8 @@ function Main {
 	
 	#--------------------------------------------------------------------------
 	Import-Module ActiveDirectory
-	Unblock-File -Path 'C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\ConfigurationManager.psd1'
-	Import-Module 'C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\ConfigurationManager.psd1'
-	New-PSDrive -Name SCCM -PSProvider "AdminUI.PS.Provider\CMSite" -Root "sccm-site-01.atbmarket.com" -Description "SCCM Site"
+	Import-Module "C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\ConfigurationManager.psd1" | Out-Null
+	New-PSDrive -Name SCCM -PSProvider "AdminUI.PS.Provider\CMSite" -Root "sccm-site-01.atbmarket.com" -Description "SCCM Site" | Out-Null
 	
 	if((Show-MainForm_psf) -eq 'OK')
 	{
